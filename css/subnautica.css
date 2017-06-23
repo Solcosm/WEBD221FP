@@ -299,6 +299,11 @@ p {
 
 /*TABLES*/
 
+a.tableLinks {
+    text-decoration: none;
+    color: yellow;
+}
+
 table {
     margin: 0px auto;
     box-shadow: 10px 10px 5px black;
